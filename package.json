@@ -1,5 +1,5 @@
 {
-  "name": "protractor-cucumber-framework",
+  "name": "protractor-cucumber-framework-outlet",
   "version": "4.0.3",
   "description": "Protractor framework for Cucumber.js",
   "main": "index.js",
